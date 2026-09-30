@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F9CF4&center=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm VanTai" alt="<img width="4024" height="6048" alt="IMG_0315" src="https://github.com/user-attachments/assets/feabf9a4-4ddf-45bf-acdc-93556da00725" />
-" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F9CF4&center=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Van+Tai" alt="Typing SVG" />
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=YOUR%20NAME&fontSize=50&desc=Developer" width="100%" />
@@ -26,10 +25,10 @@ Here are some ideas to get you started:
 ```python
 class Your_Name:
     def __init__(self):
-        self.school = "..."
-        self.company = "..."
-        self.fullName = "..."
-        self.hobbies = ["Cars", "Technology", "Traveling"]
+        self.school = "UTH"
+        self.company = "Family Bank"
+        self.fullName = "Dương Văn Tài"
+        self.hobbies = ["Games", "Technology", "Music", "Sports"]
 ```
 
 ### 🛠️ Currently working
