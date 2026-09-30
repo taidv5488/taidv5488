@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F9CF4&center=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm Van Tai" alt="<img width="4024" height="6048" alt="IMG_0315" src="https://github.com/user-attachments/assets/feabf9a4-4ddf-45bf-acdc-93556da00725" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F9CF4&center=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm VanTai" alt="<img width="4024" height="6048" alt="IMG_0315" src="https://github.com/user-attachments/assets/feabf9a4-4ddf-45bf-acdc-93556da00725" />
 " />
 </h1>
 
